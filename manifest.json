@@ -12,7 +12,7 @@
     "resourceKey": "resPacksDescription",
     "fallback": "dataPacksName"
   },
-  "resPack": false,
+  "resPack": true,
   "author": "Cold-Mint",
   "versionName": "1.0",
   "versionNumber": 1,
